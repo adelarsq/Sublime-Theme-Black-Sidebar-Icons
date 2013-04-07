@@ -3,9 +3,9 @@ Sublime-Theme-Black-Sidebar-Icons
 
 A black theme for sidebar from Sublime with icons.
 
-Based on the projects https://github.com/1Franck/sidebar-folder-icons-for-sublime-text and https://gist.github.com/olivierlacan/1857652.
+Based on https://github.com/1Franck/sidebar-folder-icons-for-sublime-text and https://gist.github.com/olivierlacan/1857652.
 
-Icons from Soda Theme > http://buymeasoda.github.com/soda-theme/
+Icons from Soda Theme: http://buymeasoda.github.com/soda-theme/
 
 ![Sublime Text 2 Sidebar folder icons](https://github.com/adelarsq/Sublime-Theme-Black-Sidebar-Icons/blob/master/screenshot.jpg?raw=true)
 
