@@ -9,7 +9,7 @@ Icons from Soda Theme: http://buymeasoda.github.com/soda-theme/
 
 ![Sublime Text 2 Sidebar folder icons](https://github.com/adelarsq/Sublime-Theme-Black-Sidebar-Icons/blob/master/screenshot.jpg?raw=true)
 
-Screnshot: Sublime Text 2 build 2217 - Ubuntu
+Screenshot: Sublime Text 2 build 2217 - Ubuntu
 
 
 Install & Configure
