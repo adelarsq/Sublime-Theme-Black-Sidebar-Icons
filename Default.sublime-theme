@@ -252,7 +252,7 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "layer0.texture": "Theme - Default/arrow_down.png",
-        "layer1.texture": "Theme - Default/arrow_down_over.png", //TODO
+        "layer1.texture": "Theme - Default/arrow_down_over.png",
         "layer0.texture": "Theme - Sidebar Folder Icons/icons/custom_folder_open.png",
         "layer1.texture": "Theme - Sidebar Folder Icons/icons/custom_folder_open_selected.png"
     },
