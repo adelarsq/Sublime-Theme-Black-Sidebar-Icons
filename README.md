@@ -1,7 +1,7 @@
 Sublime-Theme-Black-Sidebar-Icons
 =================================
 
-A black theme for sidebar from Sublime with icons.
+A black sidebar theme for Sublime Text 2 with icons.
 
 Based on https://github.com/1Franck/sidebar-folder-icons-for-sublime-text and https://gist.github.com/olivierlacan/1857652.
 
